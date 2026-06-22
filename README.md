@@ -27,7 +27,7 @@ Criar um sistema web simples para:
 ## Tecnologias
 - Java para back-end.
 - HTML, CSS e JavaScript para front-end.
-- Banco de dados MySQL.
+- Banco de dados Local Storage.
 - GitHub para versionamento e colaboração.
 
 ## Modelagem
