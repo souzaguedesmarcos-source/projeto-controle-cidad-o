@@ -1,6 +1,6 @@
 # Sistema de Controle - Programa Leite das Crianças
 
-## Integrante
+## Desenvolvedor 
 - Marcos Vinicios de Souza Guedes
   
 ## Problema
